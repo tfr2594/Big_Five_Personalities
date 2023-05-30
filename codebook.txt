@@ -56,7 +56,7 @@ OPN8	I use difficult words.
 OPN9	I spend time reflecting on things.
 OPN10	I am full of ideas.
 
-The time spent on each question is also recorded in milliseconds. These are the variables ending in _E. This was calculated by taking the time when the button for the question was clicked minus the time of the most recent other button click.
+The time spent on each question is also recorded in milliseconds, but the test elapse are recorded in seconds! These are the variables ending in _E. This was calculated by taking the time when the button for the question was clicked minus the time of the most recent other button click.
 
 dateload    The timestamp when the survey was started.
 screenw     The width the of user's screen in pixels
