@@ -3,7 +3,7 @@ The personality test was constructed with the "Big-Five Factor Markers" from the
 Participants were informed that their responses would be recorded and used for research at the beginning of the test, and asked to confirm their consent at the end of the test.
 
 The following items were presented on one page and each was rated on a five point scale using radio buttons. The order on page was was EXT1, AGR1, CSN1, EST1, OPN1, EXT2, etc.
-The scale was labeled 1=Disagree, 3=Neutral, 5=Agree
+The scale was labeled 1= Very Inaccurate, 3= Neither Accurate nor Inaccurate, 5= Very Accurate (0 comes if they skipped/missed the question)
 
 EXT1	I am the life of the party.
 EXT2	I don't talk a lot.
