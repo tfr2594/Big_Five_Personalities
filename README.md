@@ -2,8 +2,11 @@
 ## Dataset &amp; Analysis on data that was collected from 2016 to 2018 on an an interactive on-line personality test.
 
 Data Downloaded: https://www.kaggle.com/datasets/tunguz/big-five-personality-test
+
 Data Origin & Breakdown: https://ipip.ori.org/new_ipip-50-item-scale.htm
+
 YellowBrick Package: https://www.scikit-yb.org/en/latest/api/index.html
+
 Helpful Tutorials: Josh C Excel on Youtube & 10 Tips for Choosing the Optimal Number of Clusters on Toward Data Science
 
 ## Please feel free to download and explore any of the notebooks, excel file, and data!
